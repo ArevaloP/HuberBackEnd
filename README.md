@@ -1,0 +1,4 @@
+# NOTAS
+```
+    Aplicacion de habitaciones.
+```
